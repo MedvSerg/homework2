@@ -5,4 +5,5 @@ https://habr.com/company/southbridge/blog/329262/
 
 Just add 1 string - to be able to make new commit
 Add second string - to make second commit
+Add third strring - to make third commit
 
